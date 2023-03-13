@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Check with host or webmaster before proceeding with the installation 
-- Web server must have PHP8.0 to 8.1
+- Web server must have PHP 7.3
 - MySQL 5.0
 - Database with valid user, password and hostname
 - MySQL user must have full privileges on the database
